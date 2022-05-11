@@ -21,7 +21,7 @@ entries:
           url: /docs/scos/dev/setup/installing-spryker-with-docker/docker-installation-prerequisites/installing-docker-prerequisites-on-windows-with-wsl1.html
         - title: Installing Docker prerequisites on Windows with WSL2
           url: /docs/scos/dev/setup/installing-spryker-with-docker/docker-installation-prerequisites/installing-docker-prerequisites-on-windows-with-wsl2.html
-      - title: Choosing an installatiion mode and installing
+      - title: Choosing an installation mode and installing
         nested:
         - title: Choosing an installation mode
           url: /docs/scos/dev/setup/installing-spryker-with-docker/installation-guides/choosing-an-installation-mode.html
@@ -177,7 +177,7 @@ entries:
         url: /docs/scos/dev/feature-walkthroughs/cart-feature-walkthrough/calculator-plugins.html
       - title: Calculation data structure
         url: /docs/scos/dev/feature-walkthroughs/cart-feature-walkthrough/calculation-data-structure.html
-      - title: Cart Functionality
+      - title: Cart functionality
         url: /docs/scos/dev/feature-walkthroughs/cart-feature-walkthrough/cart-functionality.html
         include_versions:
         - "201811.0"
@@ -191,7 +191,7 @@ entries:
         - "201811.0"
         - "201903.0"
         - "201907.0"
-      - title: Cart Functionality and Calculations
+      - title: Cart functionality and calculations
         url: /docs/scos/dev/feature-walkthroughs/cart-feature-walkthrough/cart-functionality-and-calculations.html
         include_versions:
         - "201811.0"
@@ -223,7 +223,7 @@ entries:
       - "202108.0"
       - "202204.0"
       nested:
-      - title: Content Item Types - Module Relations
+      - title: Content Item Types - module relations
         url: /docs/scos/dev/feature-walkthroughs/content-items-feature-walkthrough/content-item-types-module-relations.html
         include_versions:
         - "201907.0"
@@ -272,7 +272,7 @@ entries:
         url: /docs/scos/dev/feature-walkthroughs/order-management-feature-walkthrough/sales-module-reference-information.html
       - title: Order Management
         url: /docs/scos/dev/feature-walkthroughs/order-management-feature-walkthrough/order-management-feature-wakthrough.html
-      - title: Custom Order Reference- Module Relations
+      - title: Custom Order Reference- module relations
         url: /docs/scos/dev/feature-walkthroughs/order-management-feature-walkthrough/custom-order-reference-module-relations.html
         include_versions:
         - "202005.0"
@@ -313,7 +313,7 @@ entries:
         - "202009.0"
         - "202108.0"
         - "202204.0"
-      - title: Quotation Process module relations
+      - title: Quotation Process - module relations
         url: /docs/scos/dev/feature-walkthroughs/quotation-process-feature-walkthrough/quotation-process-module-relations.html
         include_versions:
         - "201907.0"
@@ -342,7 +342,7 @@ entries:
         - "202009.0"
         - "202108.0"
         - "202204.0"
-      - title: Persistent Cart Sharing feature module relations
+      - title: Persistent Cart Sharing - module relations
         url: /docs/scos/dev/feature-walkthroughs/persistent-cart-sharing-feature-walkthrough/persistent-cart-sharing-feature-module-relations.html
         include_versions:
         - "201907.0"
@@ -357,7 +357,7 @@ entries:
       url: /docs/scos/dev/feature-walkthroughs/multiple-carts-feature-walkthrough.html
     - title: Product Sets
       nested:
-      - title: Product Sets- module relations
+      - title: Product Sets - module relations
         url: /docs/scos/dev/feature-walkthroughs/product-sets-feature-walkthrough/product-sets-module-relations.html
       - title: Product Sets
         url: /docs/scos/dev/feature-walkthroughs/product-sets-feature-walkthrough/product-sets-feature-walkthrough.html
@@ -402,7 +402,7 @@ entries:
       url: /docs/scos/dev/feature-walkthroughs/product-barcode-feature-walkthrough.html
     - title: Navigation
       nested:
-      - title: Navigation Module
+      - title: Navigation module
         url: /docs/scos/dev/feature-walkthroughs/navigation-feature-walkthrough/navigation-module.html
         include_versions:
         - "201811.0"
@@ -410,7 +410,7 @@ entries:
         - "201907.0"
       - title: Navigation
         url: /docs/scos/dev/feature-walkthroughs/navigation-feature-walkthrough/navigation-feature-walkthrough.html
-      - title: Navigation module- reference information
+      - title: Navigation module - reference information
         url: /docs/scos/dev/feature-walkthroughs/navigation-feature-walkthrough/navigation-module-reference-information.html
         include_versions:
         - "202001.0"
@@ -421,7 +421,7 @@ entries:
     - title: Customer Account Management
       url: /docs/scos/dev/feature-walkthroughs/customer-account-management-feature-walkthrough/customer-account-management-feature-walkthrough.html
       nested:
-      - title: Customer Module Overview
+      - title: Customer module Overview
         url: /docs/scos/dev/feature-walkthroughs/customer-account-management-feature-walkthrough/reference-information-customer-module-overview.html
     - title: Promotions & Discounts
       url: /docs/scos/dev/feature-walkthroughs/promotions-discounts-feature-walkthrough.html
@@ -478,7 +478,7 @@ entries:
         url: /docs/scos/dev/feature-walkthroughs/shipment-feature-walkthrough/shipment-feature-walkthrough.html
       - title: '"Reference information: Shipment method plugins"'
         url: /docs/scos/dev/feature-walkthroughs/shipment-feature-walkthrough/reference-information-shipment-method-plugins.html
-      - title: Shipment Module Overview
+      - title: Shipment module overview
         url: /docs/scos/dev/feature-walkthroughs/shipment-feature-walkthrough/shipment-module-overview.html
         include_versions:
         - "201811.0"
@@ -1268,7 +1268,7 @@ entries:
       - "201811.0"
       - "201907.0"
       - "202001.0"
-    - title: Configuring Outdated Refresh Token Life Time
+    - title: Configuring outdated refresh token life time
       url: /docs/scos/dev/glue-api-guides/configuring-outdated-refresh-token-life-time.html
       include_versions:
       - "202005.0"
@@ -1276,7 +1276,7 @@ entries:
       url: /docs/scos/dev/glue-api-guides/discounts-and-promotions.html
       include_versions:
       - "202001.0"
-    - title: Retrieving Discounts
+    - title: Retrieving discounts
       url: /docs/scos/dev/glue-api-guides/retrieving-discounts.html
       include_versions:
       - "202005.0"
